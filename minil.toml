@@ -1,0 +1,7 @@
+name = "AnyEvent-MQTT-Simple"
+badges = ["github-actions/test.yml"]
+authority="cpan:NABOJ"
+
+module_maker="ModuleBuildTiny"
+static_install = "auto"
+
